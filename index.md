@@ -33,4 +33,13 @@
 ![magdeburg-2](bilder/md-2.png)
 
 
+### Alleinstehendes schickes Haus
+
+ * 340k
+ * Lindenweiler (Westrand von MD)
+ * [link](https://www.immonet.de/angebot/33383717?drop=sel&related=false)
+
+![magdeburg-3](bilder/md-3.png)
+
+
  
