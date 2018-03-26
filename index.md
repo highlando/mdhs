@@ -24,4 +24,13 @@
 ![magdeburg-1](bilder/md-1.png)
 
 
+### weisses Reihenendhaus in MD
+
+ * 260k+
+ * Hopfengarten
+ * [link](https://www.immowelt.de/expose/2GAG34R)
+
+![magdeburg-2](bilder/md-2.png)
+
+
  
