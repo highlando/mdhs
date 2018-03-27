@@ -12,23 +12,14 @@
  * Wolmirstedt
  * [link](https://www.immofinanzvp.de/de/0__1390_2_3_/wolmirstedt-erstbezug-tolles-reihenendhaus-mit-barrierrefreier-einliegerwohnung.html)
 
-![weisses Haus](bilder/weiss-wolmirstedt.png)
-
-
-### Magdeburg - nur 1 Foto...
-
- * 220k
- * Neust&auml;dter See
- * [link](https://www.immofinanzvp.de/de/0__1450_2_3_/magdeburg-einfamilienhaus-in-toplage-in-magdeburg-nord.html)
-
-![magdeburg-1](bilder/md-1.png)
+![weisses Haus*](bilder/weiss-wolmirstedt.png)
 
 
 ### weisses Reihenendhaus in MD
 
  * 260k+
  * Hopfengarten
- * [link](https://www.immowelt.de/expose/2GAG34R)
+ * [link*](https://www.immowelt.de/expose/2GAG34R)
 
 ![magdeburg-2](bilder/md-2.png)
 
@@ -36,10 +27,20 @@
 ### Alleinstehendes schickes Haus
 
  * 340k
+ * Jan: *etwas teuer, nicht gut gelegen (weit vom MPI und nah an der Autobahn)*
  * Lindenweiler (Westrand von MD)
  * [link](https://www.immonet.de/angebot/33383717?drop=sel&related=false)
 
 ![magdeburg-3](bilder/md-3.png)
 
 
- 
+## schon weg ..
+### Magdeburg - nur 1 Foto...
+
+ * 220k
+ * Neust&auml;dter See
+ * [link*](https://www.immofinanzvp.de/de/0__1450_2_3_/magdeburg-einfamilienhaus-in-toplage-in-magdeburg-nord.html)
+
+![magdeburg-1](bilder/md-1.png)
+
+
